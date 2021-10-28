@@ -1,17 +1,33 @@
 {
+    "SPELL": {
+        "address": "0xCfc571f3203756319c231d3Bc643Cee807E74636",
+        "chain": "ETHEREUM MAINNET",
+        "logo": "https://cdn.discordapp.com/attachments/828696357719769088/890323871323000842/sspell-new_2.png",
+        "previous_amount": "0",
+        "title": "SPELL DegenBox",
+        "website": "https://abracadabra.money"
+    },
     "sSPELL": {
         "address": "0xc319eea1e792577c319723b5e60a15da3857e7da",
         "chain": "ETHEREUM MAINNET",
         "logo": "https://cdn.discordapp.com/attachments/828696357719769088/890323871323000842/sspell-new_2.png",
-        "previous_amount": "141.249048552397817888",
-        "title": "Staked SPELL sSPELL",
+        "previous_amount": "541.468988585183820567",
+        "title": "Old Staked SPELL sSPELL",
+        "website": "https://abracadabra.money"
+    },
+    "sSPELL (new)": {
+        "address": "0x3410297D89dCDAf4072B805EFc1ef701Bb3dd9BF",
+        "chain": "ETHEREUM MAINNET",
+        "logo": "https://cdn.discordapp.com/attachments/828696357719769088/890323871323000842/sspell-new_2.png",
+        "previous_amount": "237.785819701487545029",
+        "title": "New Staked SPELL sSPELL",
         "website": "https://abracadabra.money"
     },
     "wMEMO": {
         "address": "0x56984F04d2d04B2F63403f0EbeDD3487716bA49d",
         "chain": "AVALANCHE NETWORK",
         "logo": "https://cdn.discordapp.com/attachments/828696357719769088/893520895593816124/MEMO_Token.png",
-        "previous_amount": "2401.440976607312063862",
+        "previous_amount": "103416.627946982264775527",
         "title": "wMEMO",
         "website": "https://wonderland.money/"
     },
@@ -19,7 +35,7 @@
         "address": "0x003d5A75d284824Af736df51933be522DE9Eed0f",
         "chain": "ETHEREUM MAINNET",
         "logo": "https://cdn.discordapp.com/attachments/888144726988062784/888172737418391592/wsOHM.png",
-        "previous_amount": "37.465094238600422569",
+        "previous_amount": "8.373566514653175064",
         "title": "Wrapped sOHM",
         "website": "http://olympusdao.finance/"
     }
